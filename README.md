@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fivam21
+- 👀 I’m interested in careers in Asset Management
+- This is my public profile for my learning journey in quant investing
