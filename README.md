@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fivam21
+- 👋 Hi, I’m Peter @fivam21
 - 👀 I’m interested in a careers in Quant Research, Trading and Asset Management
 - 🌱 I’m currently learning Python and ML
 - 📫 How to reach me pmcmullan273@yahoo.com
