@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter @fivam21
-- 👀 I’m interested in a careers in Quant Research, Trading and Asset Management
+- 👀 I’m interested in a career in Discretionary and Quant Research, Trading and Asset Management
 - 🌱 I’m currently learning Python and ML
 - 📫 How to reach me pmcmullan273@yahoo.com
 - What I'm currently working on (18/02/2023):
