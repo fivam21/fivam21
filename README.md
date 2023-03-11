@@ -6,5 +6,4 @@
           - Black-Scholes option pricing model with GUI
           - Live portfolio tracking tool
           - Creating a Backtesting class and developing a trend-following strategy
-            
             (all of the above using Python)
