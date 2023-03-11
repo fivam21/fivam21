@@ -5,5 +5,6 @@
 - 📚 What I'm currently working on (18/02/2023):
           - Black-Scholes option pricing model with GUI
           - Live portfolio tracking tool
-          - Creating a Backtesting class and developing a trend-following strategy for left tail risk mitigation
+          - Creating a Backtesting class and developing a trend-following strategy
+            
             (all of the above using Python)
