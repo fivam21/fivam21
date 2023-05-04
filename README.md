@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Peter @fivam21
-- 👀 I’m interested in a career in Discretionary and Quant Research, Trading and Asset Management
+- 👀 I’m interested in a career in Quant Research, Discretionary Investing, Trading and Asset Management
 - 🌱 I’m currently learning Python and ML
 - 📫 How to reach me pmcmullan273@yahoo.com
-- 📚 What I'm currently working on (13/04/2023):
+- 📚 What I'm currently working on (04/05/2023):
           - Black-Scholes option pricing model with GUI
           - Live portfolio tracking tool
           - Creating a Backtesting class and developing a trend-following strategy
