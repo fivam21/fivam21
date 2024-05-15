@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Peter @fivam21
-- 👀 I’m interested in a career in Quant Research, Discretionary Investing, or Trading
-- 🌱 I’m currently studying MSc Computational Finance
+- 👀 I’m interested in a career in Quant Research or Trading
+- 🌱 I’m currently studying an MSc Computational Finance
 - 📫 How to reach me pmcmullan945@gmail.com
-- 📚 Currently working on trend following strategies
-            
+- 📚 Currently working on using ML in trading strategies
